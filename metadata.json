@@ -1,0 +1,10 @@
+{
+    "name":"AdBlock",
+    "description":"Clean up chat",
+    "author":"kerbybit",
+    "version": "0.2",
+    "requires":[
+        "ExtraUtilities",
+        "SettingsManager"
+    ]
+}

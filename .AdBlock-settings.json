@@ -1,0 +1,65 @@
+[
+  {
+    "name": "Join/Leave",
+    "settings": [
+      {
+        "type": "toggle",
+        "name": "Delete duplicate messages",
+        "value": true,
+        "hidden": false
+      },
+      {
+        "type": "toggle",
+        "name": "Reformat messages",
+        "value": true,
+        "hidden": false
+      },
+      {
+        "type": "toggle",
+        "name": "Show messages in notifications",
+        "value": false,
+        "hidden": false
+      }
+    ]
+  },
+  {
+    "name": "Private Messages",
+    "settings": [
+      {
+        "type": "toggle",
+        "name": "Reformat messages",
+        "value": true,
+        "hidden": false
+      },
+      {
+        "type": "toggle",
+        "name": "Play sound",
+        "value": true,
+        "hidden": false
+      }
+    ]
+  },
+  {
+    "name": "Lobby",
+    "settings": [
+      {
+        "type": "toggle",
+        "name": "Delete lobby join messages",
+        "value": true,
+        "hidden": false
+      },
+      {
+        "type": "toggle",
+        "name": "Replace repeated messages",
+        "value": true,
+        "hidden": false
+      },
+      {
+        "type": "toggle",
+        "name": "Delete random ads",
+        "value": true,
+        "hidden": false
+      }
+    ]
+  }
+]
