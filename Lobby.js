@@ -2,6 +2,7 @@ register("chat", adBlockDuplicates).setCriteria("&r&4You are not permitted to le
 register("chat", adBlockDuplicates).setCriteria("&r&cYou can't activate Gadgets in this area!&r")
 register("chat", adBlockDuplicates).setCriteria("&r&cYou cannot use gadgets right now!&r")
 register("chat", adBlockDuplicates).setCriteria("&r&cYou must wait another ${*} &r&cbefore using this!&r")
+register("chat", adBlockDuplicates).setCriteria("&r&cYou must wait &r&e3s&r&c between uses!&r")
 
 function adBlockDuplicates(event) {
     if (adBlockSettings.getSetting("Lobby", "Replace repeated messages")) {

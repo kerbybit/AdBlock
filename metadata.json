@@ -2,7 +2,7 @@
     "name":"AdBlock",
     "description":"Clean up chat",
     "author":"kerbybit",
-    "version": "0.2",
+    "version": "0.3",
     "requires":[
         "ExtraUtilities",
         "SettingsManager"
